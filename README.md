@@ -1,4 +1,4 @@
-### Hi, I'm Alex
+# Hi, I'm Alex
 
 ## Recent Software Engineering graduate with First Class Honours
 
