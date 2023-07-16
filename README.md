@@ -7,7 +7,7 @@ I'm a recent Software Engineering graduate with First Class Honours, and I'm pas
 
 👨‍💻 Currently, I am actively working on the following projects:
 
-* E-Barter: Migrating client to Next 14 and implementing UI improvements
+* E-Barter: Migrating client to Next 13 and implementing UI improvements
 * The AIO Discord Bot: The one stop solution to Discord server management
 * FinQuiz: A series of games and quizzes to promote and develop financial literacy amongst children and school leavers
 
