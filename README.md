@@ -1,5 +1,5 @@
 # Hi, I'm Alex 👋
-I'm a recent Software Engineering graduate with First Class Honours, and I'm passionate about creating innovative software solutions. I'm continually expanding my skill set and seeking opportunities to gain real-world experience!
+I'm a recent Software Engineering graduate with First Class Honours and I'm passionate about creating innovative software solutions. I'm continually expanding my skill set and seeking opportunities to gain real-world experience!
 
 ## Skills and experience
 * 💻 HTML, CSS, JavaScript, Java
