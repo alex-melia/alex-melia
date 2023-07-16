@@ -14,6 +14,7 @@ I'm a recent Software Engineering graduate with First Class Honours and I'm pass
 📚 I am focused on expanding my knowledge in the following areas:
 
 * TypeScript
+* TailwindCSS
 * Advanced Python
 * Advanced React Concepts
 
