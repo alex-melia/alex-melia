@@ -3,7 +3,7 @@ I'm a recent Software Engineering graduate with First Class Honours and I'm pass
 
 ## Skills and experience
 * 💻 JavaScript, TypeScript, React, Node.js, Next.js
-* ⚛️ Exposure to JS Frameworks such as React, Vue, Next.js
+* ⚛️ Exposure to Python and Java
 
 👨‍💻 Currently, I am actively working on the following projects:
 
